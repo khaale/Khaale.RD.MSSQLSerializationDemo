@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MsSqlSerializationDemo", "MsSqlSerializationDemo\MsSqlSerializationDemo.csproj", "{008A70CE-266F-4337-89BF-7DE78DC423D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MsSqlSerializationDemo.Tests", "MsSqlSerializationDemo.Tests\MsSqlSerializationDemo.Tests.csproj", "{F00FADA4-5688-4FFD-A4FA-66F36F7C9E1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{008A70CE-266F-4337-89BF-7DE78DC423D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{008A70CE-266F-4337-89BF-7DE78DC423D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{008A70CE-266F-4337-89BF-7DE78DC423D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{008A70CE-266F-4337-89BF-7DE78DC423D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F00FADA4-5688-4FFD-A4FA-66F36F7C9E1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F00FADA4-5688-4FFD-A4FA-66F36F7C9E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F00FADA4-5688-4FFD-A4FA-66F36F7C9E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F00FADA4-5688-4FFD-A4FA-66F36F7C9E1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
